@@ -1,2 +1,2 @@
-# UnityTraining
-Unity training
+# UnityPractice
+Unity practice projects
